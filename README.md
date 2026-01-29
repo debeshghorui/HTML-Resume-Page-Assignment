@@ -23,8 +23,8 @@ The layout closely follows the provided reference while keeping the code semanti
 
 ---
 
-## 🛠️ Technologies Used
+## 🖼️ Screenshots
 
-- **HTML5**
+<img src="screenshots/Screenshot1.png" alt="Resume Screenshot 1" width="800">
 
----
+<img src="screenshots/Screenshot2.png" alt="Resume Screenshot 2" width="800">
