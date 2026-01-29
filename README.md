@@ -19,7 +19,7 @@ The resume website includes all essential sections of a professional resume such
 - Contact details
 - Footer
 
-The layout closely follows the provided reference while keeping the code semantic and well-structured.
+The layout is semantic, well-structured, and easy to read.
 
 ---
 
